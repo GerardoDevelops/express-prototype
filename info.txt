@@ -1,0 +1,30 @@
+=> yargs: para recibir datos en consola como banderas, usada en 4 bases de node
+
+=> inquirer: Para aplicaciones en consola prronas, usada en la seccion 05.
+
+=> uuid: Para generar id, usada en la seccion 05
+
+=> fs: (file system) para escribir y leer archivos externos (txt, json) 
+
+=> Handlebars: Motor de vistas
+
+=> Dotenv: Variables globales
+
+=> http-server: servidor http para levantar angular, react etc
+
+=> cors: que solo ciertas paginas accedan a api o que todos, es para proteccion de api
+
+=> mongoose: para gestionar el mongodb, como el crud
+
+=> bcryptjs: Para encriptar contraseñas en una sola via
+
+=> express-validator: para validar el correo y otros campos.
+
+=> mongoose-paginate-v2: paginar con moongose.
+
+=> express-fileupload: Para gestionar archivos como fotos etc
+
+=> cloudinary: Para subir imagenes y videos a la nube
+
+
+--global: tenemos que correr como superusuario o admin
